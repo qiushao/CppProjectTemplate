@@ -22,6 +22,7 @@ add_subdirectory(third_party)
 add_subdirectory(src)
 
 if (QSLOG_BUILD_TESTS)
+    enable_testing()
     add_subdirectory(tests)
 endif()
 
