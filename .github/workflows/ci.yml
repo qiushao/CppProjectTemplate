@@ -29,6 +29,10 @@ jobs:
     name: "${{ matrix.config.compiler}} ${{ matrix.config.version }} (C++${{ matrix.config.cppstd }} ${{ matrix.config.build_type }} ${{ matrix.config.asan == 'ON' && 'ASAN' || '' }}${{ matrix.config.tsan == 'ON' && 'TSAN' || '' }})"
     steps:
       - uses: actions/checkout@v4
+      - name: Setup
+        run: |
+          apt-get update
+          apt-get install -y clang-tidy
       - name: Setup Compiler
         if: matrix.config.compiler == 'clang'
         run: |
@@ -50,9 +54,12 @@ jobs:
   # -----------------------------------------------------------------------
   build_osx:
     runs-on: macOS-latest
-    name: "OS X Clang (C++11, Release)"
+    name: "OS X Clang Release"
     steps:
       - uses: actions/checkout@v4
+      - name: Setup
+        run: |
+          brew install llvm
       - name: Build
         run: |
           mkdir -p build && cd build
