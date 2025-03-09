@@ -1,0 +1,117 @@
+[
+{
+  "directory": "/home/jingle/projects/clion/CppProjectTemplate/build-release/third_party/benchmark-1.9.1/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -DBENCHMARK_VERSION=\\\"v1.9.1\\\" -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/include -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing -O3 -DNDEBUG -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/benchmark.dir/benchmark.cc.o -c /home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/benchmark.cc",
+  "file": "/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/benchmark.cc"
+},
+{
+  "directory": "/home/jingle/projects/clion/CppProjectTemplate/build-release/third_party/benchmark-1.9.1/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/include -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing -O3 -DNDEBUG -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/benchmark.dir/benchmark_api_internal.cc.o -c /home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/benchmark_api_internal.cc",
+  "file": "/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/benchmark_api_internal.cc"
+},
+{
+  "directory": "/home/jingle/projects/clion/CppProjectTemplate/build-release/third_party/benchmark-1.9.1/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/include -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing -O3 -DNDEBUG -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/benchmark.dir/benchmark_name.cc.o -c /home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/benchmark_name.cc",
+  "file": "/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/benchmark_name.cc"
+},
+{
+  "directory": "/home/jingle/projects/clion/CppProjectTemplate/build-release/third_party/benchmark-1.9.1/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/include -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing -O3 -DNDEBUG -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/benchmark.dir/benchmark_register.cc.o -c /home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/benchmark_register.cc",
+  "file": "/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/benchmark_register.cc"
+},
+{
+  "directory": "/home/jingle/projects/clion/CppProjectTemplate/build-release/third_party/benchmark-1.9.1/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/include -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing -O3 -DNDEBUG -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/benchmark.dir/benchmark_runner.cc.o -c /home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/benchmark_runner.cc",
+  "file": "/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/benchmark_runner.cc"
+},
+{
+  "directory": "/home/jingle/projects/clion/CppProjectTemplate/build-release/third_party/benchmark-1.9.1/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/include -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing -O3 -DNDEBUG -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/benchmark.dir/check.cc.o -c /home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/check.cc",
+  "file": "/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/check.cc"
+},
+{
+  "directory": "/home/jingle/projects/clion/CppProjectTemplate/build-release/third_party/benchmark-1.9.1/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/include -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing -O3 -DNDEBUG -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/benchmark.dir/colorprint.cc.o -c /home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/colorprint.cc",
+  "file": "/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/colorprint.cc"
+},
+{
+  "directory": "/home/jingle/projects/clion/CppProjectTemplate/build-release/third_party/benchmark-1.9.1/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/include -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing -O3 -DNDEBUG -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/benchmark.dir/commandlineflags.cc.o -c /home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/commandlineflags.cc",
+  "file": "/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/commandlineflags.cc"
+},
+{
+  "directory": "/home/jingle/projects/clion/CppProjectTemplate/build-release/third_party/benchmark-1.9.1/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/include -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing -O3 -DNDEBUG -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/benchmark.dir/complexity.cc.o -c /home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/complexity.cc",
+  "file": "/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/complexity.cc"
+},
+{
+  "directory": "/home/jingle/projects/clion/CppProjectTemplate/build-release/third_party/benchmark-1.9.1/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/include -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing -O3 -DNDEBUG -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/benchmark.dir/console_reporter.cc.o -c /home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/console_reporter.cc",
+  "file": "/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/console_reporter.cc"
+},
+{
+  "directory": "/home/jingle/projects/clion/CppProjectTemplate/build-release/third_party/benchmark-1.9.1/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/include -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing -O3 -DNDEBUG -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/benchmark.dir/counter.cc.o -c /home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/counter.cc",
+  "file": "/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/counter.cc"
+},
+{
+  "directory": "/home/jingle/projects/clion/CppProjectTemplate/build-release/third_party/benchmark-1.9.1/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/include -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing -O3 -DNDEBUG -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/benchmark.dir/csv_reporter.cc.o -c /home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/csv_reporter.cc",
+  "file": "/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/csv_reporter.cc"
+},
+{
+  "directory": "/home/jingle/projects/clion/CppProjectTemplate/build-release/third_party/benchmark-1.9.1/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/include -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing -O3 -DNDEBUG -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/benchmark.dir/json_reporter.cc.o -c /home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/json_reporter.cc",
+  "file": "/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/json_reporter.cc"
+},
+{
+  "directory": "/home/jingle/projects/clion/CppProjectTemplate/build-release/third_party/benchmark-1.9.1/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/include -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing -O3 -DNDEBUG -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/benchmark.dir/perf_counters.cc.o -c /home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/perf_counters.cc",
+  "file": "/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/perf_counters.cc"
+},
+{
+  "directory": "/home/jingle/projects/clion/CppProjectTemplate/build-release/third_party/benchmark-1.9.1/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/include -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing -O3 -DNDEBUG -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/benchmark.dir/reporter.cc.o -c /home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/reporter.cc",
+  "file": "/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/reporter.cc"
+},
+{
+  "directory": "/home/jingle/projects/clion/CppProjectTemplate/build-release/third_party/benchmark-1.9.1/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/include -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing -O3 -DNDEBUG -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/benchmark.dir/statistics.cc.o -c /home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/statistics.cc",
+  "file": "/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/statistics.cc"
+},
+{
+  "directory": "/home/jingle/projects/clion/CppProjectTemplate/build-release/third_party/benchmark-1.9.1/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/include -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing -O3 -DNDEBUG -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/benchmark.dir/string_util.cc.o -c /home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/string_util.cc",
+  "file": "/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/string_util.cc"
+},
+{
+  "directory": "/home/jingle/projects/clion/CppProjectTemplate/build-release/third_party/benchmark-1.9.1/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/include -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing -O3 -DNDEBUG -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/benchmark.dir/sysinfo.cc.o -c /home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/sysinfo.cc",
+  "file": "/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/sysinfo.cc"
+},
+{
+  "directory": "/home/jingle/projects/clion/CppProjectTemplate/build-release/third_party/benchmark-1.9.1/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_HAS_PTHREAD_AFFINITY -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/include -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing -O3 -DNDEBUG -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/benchmark.dir/timers.cc.o -c /home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/timers.cc",
+  "file": "/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/timers.cc"
+},
+{
+  "directory": "/home/jingle/projects/clion/CppProjectTemplate/build-release/third_party/benchmark-1.9.1/src",
+  "command": "/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -DHAVE_POSIX_REGEX -DHAVE_PTHREAD_AFFINITY -DHAVE_STD_REGEX -DHAVE_STEADY_CLOCK -D_FILE_OFFSET_BITS=64 -D_LARGEFILE64_SOURCE -D_LARGEFILE_SOURCE -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/include -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src   -Wall  -Wextra  -Wshadow  -Wfloat-equal  -Wold-style-cast  -Wconversion  -Werror  -Wsuggest-override  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wno-deprecated  -fno-exceptions  -Wstrict-aliasing -O3 -DNDEBUG -fvisibility=hidden -fvisibility-inlines-hidden -std=c++17 -o CMakeFiles/benchmark_main.dir/benchmark_main.cc.o -c /home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/benchmark_main.cc",
+  "file": "/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/src/benchmark_main.cc"
+},
+{
+  "directory": "/home/jingle/projects/clion/CppProjectTemplate/build-release/src",
+  "command": "/usr/bin/c++  -I/home/jingle/projects/clion/CppProjectTemplate/src -O3 -DNDEBUG -o CMakeFiles/libcalculator.dir/Calculator.cpp.o -c /home/jingle/projects/clion/CppProjectTemplate/src/Calculator.cpp",
+  "file": "/home/jingle/projects/clion/CppProjectTemplate/src/Calculator.cpp"
+},
+{
+  "directory": "/home/jingle/projects/clion/CppProjectTemplate/build-release/benchmarks",
+  "command": "/usr/bin/c++ -DBENCHMARK_STATIC_DEFINE -I/home/jingle/projects/clion/CppProjectTemplate/benchmarks -I/home/jingle/projects/clion/CppProjectTemplate/src -I/home/jingle/projects/clion/CppProjectTemplate/third_party/benchmark-1.9.1/include -O3 -DNDEBUG -o CMakeFiles/benchmarks.dir/CalculatorBenchmark.cpp.o -c /home/jingle/projects/clion/CppProjectTemplate/benchmarks/CalculatorBenchmark.cpp",
+  "file": "/home/jingle/projects/clion/CppProjectTemplate/benchmarks/CalculatorBenchmark.cpp"
+},
+{
+  "directory": "/home/jingle/projects/clion/CppProjectTemplate/build-release/examples",
+  "command": "/usr/bin/c++  -I/home/jingle/projects/clion/CppProjectTemplate/examples -I/home/jingle/projects/clion/CppProjectTemplate/src -O3 -DNDEBUG -o CMakeFiles/example.dir/example.cpp.o -c /home/jingle/projects/clion/CppProjectTemplate/examples/example.cpp",
+  "file": "/home/jingle/projects/clion/CppProjectTemplate/examples/example.cpp"
+}
+]

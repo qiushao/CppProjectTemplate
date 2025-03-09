@@ -1,0 +1,5 @@
+clear_local_var()
+set(local_module benchmarks)
+set(local_source CalculatorBenchmark.cpp)
+set(local_dependency libcalculator benchmark::benchmark)
+build_executable()

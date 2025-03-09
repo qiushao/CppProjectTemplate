@@ -1,0 +1,5 @@
+clear_local_var()
+set(local_module testsuite)
+set(local_source testCalculator.cpp)
+set(local_dependency libcalculator gtest gtest_main)
+build_executable()

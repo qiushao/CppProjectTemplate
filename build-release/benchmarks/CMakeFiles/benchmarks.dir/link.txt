@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/benchmarks.dir/CalculatorBenchmark.cpp.o -o benchmarks  ../src/liblibcalculator.a ../third_party/benchmark-1.9.1/src/libbenchmark.a -lrt 

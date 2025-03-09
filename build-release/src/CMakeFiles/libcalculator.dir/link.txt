@@ -1,0 +1,2 @@
+/usr/bin/llvm-ar qc liblibcalculator.a CMakeFiles/libcalculator.dir/Calculator.cpp.o
+/usr/bin/llvm-ranlib liblibcalculator.a

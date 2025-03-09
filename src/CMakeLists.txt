@@ -1,0 +1,5 @@
+clear_local_var()
+set(local_module libcalculator)
+set(local_source Calculator.cpp Calculator.h)
+set(local_export_header ${CMAKE_CURRENT_SOURCE_DIR})
+build_static_library()
