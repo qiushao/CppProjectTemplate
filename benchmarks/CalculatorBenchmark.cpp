@@ -29,8 +29,4 @@ static void bmDivide(benchmark::State &state) {
 }
 BENCHMARK(bmDivide);
 
-int main(int argc, char **argv) {
-    benchmark::Initialize(&argc, argv);
-    benchmark::RunSpecifiedBenchmarks();
-    return 0;
-}
+BENCHMARK_MAIN();

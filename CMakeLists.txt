@@ -5,7 +5,7 @@ set(CMAKE_CXX_STANDARD 17)
 
 # clang-tidy
 option(QSLOG_CLANG_TIDY_ENABLE "run clang-tidy" ON)
-if(QSLOG_CLANG_TIDY_ENABLE)
+if(QSLOG_CLANG_TIDY_ENABLE AND ${CMAKE_SYSTEM_NAME} STREQUAL "Linux")
     set(CMAKE_CXX_CLANG_TIDY "clang-tidy")
     set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
     message(STATUS "enabled clang-tidy")
