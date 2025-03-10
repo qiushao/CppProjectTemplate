@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.16)
 project(CppProjectTemplate)
 
-set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD 20)
 
 # clang-tidy
 option(QSLOG_CLANG_TIDY_ENABLE "run clang-tidy" ON)
